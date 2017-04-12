@@ -1,0 +1,1 @@
+%CD%\nsu-venv\scripts\python.exe %CD

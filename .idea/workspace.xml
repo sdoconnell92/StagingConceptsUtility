@@ -15,70 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="guiapp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
+      <file leaf-file-name="guiapp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nsp_staging_utility/guiapp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#89#109#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainWindowApp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="192" column="20" lean-forward="false" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
-              <folding>
-                <element signature="e#104#124#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entStaging.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1408">
-              <caret line="120" column="51" lean-forward="false" selection-start-line="120" selection-start-column="42" selection-end-line="120" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <element signature="e#682#1072#0" expanded="false" />
-                <element signature="e#1110#1379#0" expanded="false" />
-                <element signature="e#1531#1620#0" expanded="false" />
-                <element signature="e#1794#2090#0" expanded="false" />
-                <element signature="e#2129#2499#0" expanded="false" />
-                <element signature="e#2537#2951#0" expanded="false" />
-                <element signature="e#2649#2918#0" expanded="false" />
-                <element signature="e#2988#3211#0" expanded="false" />
-                <element signature="e#7561#7670#0" expanded="false" />
-                <element signature="e#7735#8404#0" expanded="false" />
-                <element signature="e#8443#8809#0" expanded="false" />
-                <element signature="e#8847#9257#0" expanded="false" />
-                <element signature="e#9294#9421#0" expanded="false" />
-                <element signature="e#9486#9713#0" expanded="false" />
-                <element signature="e#9756#9850#0" expanded="false" />
-                <element signature="e#10297#13554#0" expanded="false" />
-                <element signature="e#16329#17795#0" expanded="false" />
-                <element signature="e#18689#18872#0" expanded="false" />
-                <element signature="e#18902#18951#0" expanded="false" />
-                <element signature="e#18983#19721#0" expanded="false" />
-                <element signature="e#19743#20020#0" expanded="false" />
-                <element signature="e#20085#20348#0" expanded="false" />
-                <element signature="e#20397#22641#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/common.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="264">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,6 +37,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>stagecan</find>
+      <find>colorama</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,15 +49,32 @@
         <option value="$PROJECT_DIR$/bin/app2.py" />
         <option value="$PROJECT_DIR$/bin/com/common.py" />
         <option value="$PROJECT_DIR$/bin/common.py" />
+        <option value="$PROJECT_DIR$/bin/app1.py" />
         <option value="$PROJECT_DIR$/bin/entStaging.py" />
+        <option value="$PROJECT_DIR$/nsp_staging_utility/bin/MainWindowApp.py" />
         <option value="$PROJECT_DIR$/bin/MainWindowApp.py" />
+        <option value="$PROJECT_DIR$/nsu-venv/Lib/testpack/stuffhere.py" />
+        <option value="$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/guiapp.py" />
+        <option value="$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/common.py" />
+        <option value="$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/CumulativeLogger.py" />
+        <option value="$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/entStaging.py" />
+        <option value="$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/MainWindowApp.py" />
+        <option value="$PROJECT_DIR$/launch.bat" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/ViewLog.py" />
+        <option value="$PROJECT_DIR$/nsp_staging_utility/common.py" />
+        <option value="$PROJECT_DIR$/nsp_staging_utility/CumulativeLogger.py" />
+        <option value="$PROJECT_DIR$/nsp_staging_utility/entStaging.py" />
+        <option value="$PROJECT_DIR$/nsp_staging_utility/guiapp.py" />
+        <option value="$PROJECT_DIR$/nsp_staging_utility/MainWindowApp.py" />
+        <option value="$PROJECT_DIR$/nsp_staging_utility/ViewLog.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="width" value="1932" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectView">
@@ -137,57 +96,83 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StagingUtility" />
+              <option name="myItemId" value="StagingConceptsUtility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StagingUtility" />
+              <option name="myItemId" value="StagingConceptsUtility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StagingUtility" />
+              <option name="myItemId" value="StagingConceptsUtility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StagingUtility" />
+              <option name="myItemId" value="StagingConceptsUtility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="nsu-venv" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StagingUtility" />
+              <option name="myItemId" value="StagingConceptsUtility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StagingUtility" />
+              <option name="myItemId" value="StagingConceptsUtility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bin" />
+              <option name="myItemId" value="nsu-venv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StagingConceptsUtility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StagingConceptsUtility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsp_staging_utility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pylongopgui" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/pyupdater-wx-demo-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sean\WorthSaving\repos\StagingConceptsUtility\nsu-venv\Lib" />
+      <recent name="C:\Users\Sean\WorthSaving\repos\StagingConceptsUtility" />
+      <recent name="C:\Users\Sean\WorthSaving\repos\StagingConceptsUtility\nsp_staging_utility" />
+      <recent name="C:\Users\Sean\WorthSaving\repos\StagingConceptsUtility\bin" />
       <recent name="C:\Users\Sean\WorthSaving\repos\StagingUtility\bin" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sean\WorthSaving\repos\StagingConceptsUtility\bin" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.guiapp">
+  <component name="RunManager" selected="Python.guiapp (1)">
     <configuration default="false" name="guiapp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,24 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="StagingUtility" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/guiapp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="app1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="StagingUtility" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/app1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sean\WorthSaving\repos\StagingConceptsUtility\nsp_staging_utility\guiapp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -234,7 +202,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="StagingUtility" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/MainWindowApp.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sean\WorthSaving\repos\StagingConceptsUtility\nsp_staging_utility\MainWindowApp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -251,7 +219,41 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="StagingUtility" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/entStaging.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sean\WorthSaving\repos\StagingConceptsUtility\nsp_staging_utility\entStaging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="stuffhere" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nsu-venv/Lib/testpack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StagingUtility" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nsu-venv/Lib/testpack/stuffhere.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="guiapp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nsp_staging_utility" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StagingUtility" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nsp_staging_utility/guiapp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -390,18 +392,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.guiapp" />
-      <item index="1" class="java.lang.String" itemvalue="Python.app1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MainWindowApp" />
-      <item index="3" class="java.lang.String" itemvalue="Python.entStaging" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MainWindowApp" />
+      <item index="2" class="java.lang.String" itemvalue="Python.entStaging" />
+      <item index="3" class="java.lang.String" itemvalue="Python.stuffhere" />
+      <item index="4" class="java.lang.String" itemvalue="Python.guiapp (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.guiapp" />
-        <item index="1" class="java.lang.String" itemvalue="Python.entStaging" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MainWindowApp" />
-        <item index="3" class="java.lang.String" itemvalue="Python.app1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.guiapp (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.guiapp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.stuffhere" />
+        <item index="3" class="java.lang.String" itemvalue="Python.entStaging" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MainWindowApp" />
       </list>
     </recent_temporary>
   </component>
@@ -422,15 +426,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <frame x="-9" y="-9" width="1932" height="1060" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18191433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18143237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35977653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35977653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -443,6 +447,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35977653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18143237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40670392" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -454,564 +477,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3278">
-          <caret line="157" column="21" lean-forward="false" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="21" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#682#1072#0" expanded="false" />
-            <element signature="e#1110#1379#0" expanded="false" />
-            <element signature="e#1531#1620#0" expanded="false" />
-            <element signature="e#1794#2090#0" expanded="false" />
-            <element signature="e#2129#2499#0" expanded="false" />
-            <element signature="e#2537#2951#0" expanded="false" />
-            <element signature="e#2649#2918#0" expanded="false" />
-            <element signature="e#2988#3211#0" expanded="false" />
-            <element signature="e#7561#7670#0" expanded="false" />
-            <element signature="e#7735#8404#0" expanded="false" />
-            <element signature="e#8443#8809#0" expanded="false" />
-            <element signature="e#8847#9257#0" expanded="false" />
-            <element signature="e#9294#9421#0" expanded="false" />
-            <element signature="e#9486#9713#0" expanded="false" />
-            <element signature="e#9756#9850#0" expanded="false" />
-            <element signature="e#10297#13554#0" expanded="false" />
-            <element signature="e#16329#17795#0" expanded="false" />
-            <element signature="e#18689#18872#0" expanded="false" />
-            <element signature="e#18902#18951#0" expanded="false" />
-            <element signature="e#18983#19721#0" expanded="false" />
-            <element signature="e#19743#20020#0" expanded="false" />
-            <element signature="e#20085#20348#0" expanded="false" />
-            <element signature="e#20397#22641#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3278">
-          <caret line="157" column="21" lean-forward="false" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="21" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#682#1072#0" expanded="false" />
-            <element signature="e#1110#1379#0" expanded="false" />
-            <element signature="e#1531#1620#0" expanded="false" />
-            <element signature="e#1794#2090#0" expanded="false" />
-            <element signature="e#2129#2499#0" expanded="false" />
-            <element signature="e#2537#2951#0" expanded="false" />
-            <element signature="e#2649#2918#0" expanded="false" />
-            <element signature="e#2988#3211#0" expanded="false" />
-            <element signature="e#7561#7670#0" expanded="false" />
-            <element signature="e#7735#8404#0" expanded="false" />
-            <element signature="e#8443#8809#0" expanded="false" />
-            <element signature="e#8847#9257#0" expanded="false" />
-            <element signature="e#9294#9421#0" expanded="false" />
-            <element signature="e#9486#9713#0" expanded="false" />
-            <element signature="e#9756#9850#0" expanded="false" />
-            <element signature="e#10297#13554#0" expanded="false" />
-            <element signature="e#16329#17795#0" expanded="false" />
-            <element signature="e#18689#18872#0" expanded="false" />
-            <element signature="e#18902#18951#0" expanded="false" />
-            <element signature="e#18983#19721#0" expanded="false" />
-            <element signature="e#19743#20020#0" expanded="false" />
-            <element signature="e#20085#20348#0" expanded="false" />
-            <element signature="e#20397#22641#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="275" column="23" lean-forward="false" selection-start-line="275" selection-start-column="23" selection-end-line="275" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#682#1072#0" expanded="false" />
-            <element signature="e#1110#1379#0" expanded="false" />
-            <element signature="e#1531#1620#0" expanded="false" />
-            <element signature="e#1794#2090#0" expanded="false" />
-            <element signature="e#2129#2499#0" expanded="false" />
-            <element signature="e#2537#2951#0" expanded="false" />
-            <element signature="e#2649#2918#0" expanded="false" />
-            <element signature="e#2988#3211#0" expanded="false" />
-            <element signature="e#7561#7670#0" expanded="false" />
-            <element signature="e#7735#8404#0" expanded="false" />
-            <element signature="e#8443#8809#0" expanded="false" />
-            <element signature="e#8847#9257#0" expanded="false" />
-            <element signature="e#9294#9421#0" expanded="false" />
-            <element signature="e#9486#9713#0" expanded="false" />
-            <element signature="e#9756#9850#0" expanded="false" />
-            <element signature="e#10297#13554#0" expanded="false" />
-            <element signature="e#16329#17795#0" expanded="false" />
-            <element signature="e#18689#18872#0" expanded="false" />
-            <element signature="e#18902#18951#0" expanded="false" />
-            <element signature="e#18983#19721#0" expanded="false" />
-            <element signature="e#19743#20020#0" expanded="false" />
-            <element signature="e#20085#20348#0" expanded="false" />
-            <element signature="e#20397#22641#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="275" column="23" lean-forward="false" selection-start-line="275" selection-start-column="23" selection-end-line="275" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#682#1072#0" expanded="false" />
-            <element signature="e#1110#1379#0" expanded="false" />
-            <element signature="e#1531#1620#0" expanded="false" />
-            <element signature="e#1794#2090#0" expanded="false" />
-            <element signature="e#2129#2499#0" expanded="false" />
-            <element signature="e#2537#2951#0" expanded="false" />
-            <element signature="e#2649#2918#0" expanded="false" />
-            <element signature="e#2988#3211#0" expanded="false" />
-            <element signature="e#7561#7670#0" expanded="false" />
-            <element signature="e#7735#8404#0" expanded="false" />
-            <element signature="e#8443#8809#0" expanded="false" />
-            <element signature="e#8847#9257#0" expanded="false" />
-            <element signature="e#9294#9421#0" expanded="false" />
-            <element signature="e#9486#9713#0" expanded="false" />
-            <element signature="e#9756#9850#0" expanded="false" />
-            <element signature="e#10297#13554#0" expanded="false" />
-            <element signature="e#16329#17795#0" expanded="false" />
-            <element signature="e#18689#18872#0" expanded="false" />
-            <element signature="e#18902#18951#0" expanded="false" />
-            <element signature="e#18983#19721#0" expanded="false" />
-            <element signature="e#19743#20020#0" expanded="false" />
-            <element signature="e#20085#20348#0" expanded="false" />
-            <element signature="e#20397#22641#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="275" column="23" lean-forward="false" selection-start-line="275" selection-start-column="23" selection-end-line="275" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#682#1072#0" expanded="false" />
-            <element signature="e#1110#1379#0" expanded="false" />
-            <element signature="e#1531#1620#0" expanded="false" />
-            <element signature="e#1794#2090#0" expanded="false" />
-            <element signature="e#2129#2499#0" expanded="false" />
-            <element signature="e#2537#2951#0" expanded="false" />
-            <element signature="e#2649#2918#0" expanded="false" />
-            <element signature="e#2988#3211#0" expanded="false" />
-            <element signature="e#7561#7670#0" expanded="false" />
-            <element signature="e#7735#8404#0" expanded="false" />
-            <element signature="e#8443#8809#0" expanded="false" />
-            <element signature="e#8847#9257#0" expanded="false" />
-            <element signature="e#9294#9421#0" expanded="false" />
-            <element signature="e#9486#9713#0" expanded="false" />
-            <element signature="e#9756#9850#0" expanded="false" />
-            <element signature="e#10297#13554#0" expanded="false" />
-            <element signature="e#16329#17795#0" expanded="false" />
-            <element signature="e#18689#18872#0" expanded="false" />
-            <element signature="e#18902#18951#0" expanded="false" />
-            <element signature="e#18983#19721#0" expanded="false" />
-            <element signature="e#19743#20020#0" expanded="false" />
-            <element signature="e#20085#20348#0" expanded="false" />
-            <element signature="e#20397#22641#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="275" column="23" lean-forward="false" selection-start-line="275" selection-start-column="23" selection-end-line="275" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#682#1072#0" expanded="false" />
-            <element signature="e#1110#1379#0" expanded="false" />
-            <element signature="e#1531#1620#0" expanded="false" />
-            <element signature="e#1794#2090#0" expanded="false" />
-            <element signature="e#2129#2499#0" expanded="false" />
-            <element signature="e#2537#2951#0" expanded="false" />
-            <element signature="e#2649#2918#0" expanded="false" />
-            <element signature="e#2988#3211#0" expanded="false" />
-            <element signature="e#7561#7670#0" expanded="false" />
-            <element signature="e#7735#8404#0" expanded="false" />
-            <element signature="e#8443#8809#0" expanded="false" />
-            <element signature="e#8847#9257#0" expanded="false" />
-            <element signature="e#9294#9421#0" expanded="false" />
-            <element signature="e#9486#9713#0" expanded="false" />
-            <element signature="e#9756#9850#0" expanded="false" />
-            <element signature="e#10297#13554#0" expanded="false" />
-            <element signature="e#16329#17795#0" expanded="false" />
-            <element signature="e#18689#18872#0" expanded="false" />
-            <element signature="e#18902#18951#0" expanded="false" />
-            <element signature="e#18983#19721#0" expanded="false" />
-            <element signature="e#19743#20020#0" expanded="false" />
-            <element signature="e#20085#20348#0" expanded="false" />
-            <element signature="e#20397#22641#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="275" column="23" lean-forward="false" selection-start-line="275" selection-start-column="23" selection-end-line="275" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#682#1072#0" expanded="false" />
-            <element signature="e#1110#1379#0" expanded="false" />
-            <element signature="e#1531#1620#0" expanded="false" />
-            <element signature="e#1794#2090#0" expanded="false" />
-            <element signature="e#2129#2499#0" expanded="false" />
-            <element signature="e#2537#2951#0" expanded="false" />
-            <element signature="e#2649#2918#0" expanded="false" />
-            <element signature="e#2988#3211#0" expanded="false" />
-            <element signature="e#7561#7670#0" expanded="false" />
-            <element signature="e#7735#8404#0" expanded="false" />
-            <element signature="e#8443#8809#0" expanded="false" />
-            <element signature="e#8847#9257#0" expanded="false" />
-            <element signature="e#9294#9421#0" expanded="false" />
-            <element signature="e#9486#9713#0" expanded="false" />
-            <element signature="e#9756#9850#0" expanded="false" />
-            <element signature="e#10297#13554#0" expanded="false" />
-            <element signature="e#16329#17795#0" expanded="false" />
-            <element signature="e#18689#18872#0" expanded="false" />
-            <element signature="e#18902#18951#0" expanded="false" />
-            <element signature="e#18983#19721#0" expanded="false" />
-            <element signature="e#19743#20020#0" expanded="false" />
-            <element signature="e#20085#20348#0" expanded="false" />
-            <element signature="e#20397#22641#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/app1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/ProgressBarView.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/ActionWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logwindow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/progress.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyguiapp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/LoggerToWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/app2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/ProgressBarView.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/app1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/LoggerToWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/app2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyguiapp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/progress.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logwindow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/ActionWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/ThreadsConnector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1628">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/guiapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/MainWindowApp.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/entStaging.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/common.py" />
+    <entry file="file://$PROJECT_DIR$/bin/app1.py" />
+    <entry file="file://$PROJECT_DIR$/bin/ProgressBarView.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/guiapp.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/MainWindowApp.py" />
+    <entry file="file://$PROJECT_DIR$/bin/ActionWindow.py" />
+    <entry file="file://$PROJECT_DIR$/images/logwindow.png" />
+    <entry file="file://$PROJECT_DIR$/images/progress.png" />
+    <entry file="file://$PROJECT_DIR$/pyguiapp.html" />
+    <entry file="file://$PROJECT_DIR$/bin/LoggerToWindow.py" />
+    <entry file="file://$PROJECT_DIR$/bin/app2.py" />
+    <entry file="file://$PROJECT_DIR$/images/progress.png" />
+    <entry file="file://$PROJECT_DIR$/images/logwindow.png" />
     <entry file="file://C:/Python27/Lib/lib-tk/Tkinter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1019,54 +499,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/common.py">
+    <entry file="file://$PROJECT_DIR$/bin/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/bin/ActionWindow.py" />
+    <entry file="file://$PROJECT_DIR$/bin/app1.py" />
+    <entry file="file://$PROJECT_DIR$/bin/app2.py" />
+    <entry file="file://$PROJECT_DIR$/bin/ProgressBarView.py" />
+    <entry file="file://$PROJECT_DIR$/bin/ThreadsConnector.py" />
+    <entry file="file://$PROJECT_DIR$/bin/LoggerToWindow.py" />
+    <entry file="file://$PROJECT_DIR$/bin/ProgressBarWithAck.py" />
+    <entry file="file://$PROJECT_DIR$/pyguiapp.html" />
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/guiapp.spec" />
+    <entry file="file://$PROJECT_DIR$/bin/client_config.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/guiapp.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/testpack/stuffhere.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/guiapp.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/common.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/CumulativeLogger.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/entStaging.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/MainWindowApp.py" />
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/ViewLog.py" />
+    <entry file="file://$PROJECT_DIR$/launch.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/entStaging.py">
+    <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="120" column="51" lean-forward="false" selection-start-line="120" selection-start-column="42" selection-end-line="120" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#682#1072#0" expanded="false" />
-            <element signature="e#1110#1379#0" expanded="false" />
-            <element signature="e#1531#1620#0" expanded="false" />
-            <element signature="e#1794#2090#0" expanded="false" />
-            <element signature="e#2129#2499#0" expanded="false" />
-            <element signature="e#2537#2951#0" expanded="false" />
-            <element signature="e#2649#2918#0" expanded="false" />
-            <element signature="e#2988#3211#0" expanded="false" />
-            <element signature="e#7561#7670#0" expanded="false" />
-            <element signature="e#7735#8404#0" expanded="false" />
-            <element signature="e#8443#8809#0" expanded="false" />
-            <element signature="e#8847#9257#0" expanded="false" />
-            <element signature="e#9294#9421#0" expanded="false" />
-            <element signature="e#9486#9713#0" expanded="false" />
-            <element signature="e#9756#9850#0" expanded="false" />
-            <element signature="e#10297#13554#0" expanded="false" />
-            <element signature="e#16329#17795#0" expanded="false" />
-            <element signature="e#18689#18872#0" expanded="false" />
-            <element signature="e#18902#18951#0" expanded="false" />
-            <element signature="e#18983#19721#0" expanded="false" />
-            <element signature="e#19743#20020#0" expanded="false" />
-            <element signature="e#20085#20348#0" expanded="false" />
-            <element signature="e#20397#22641#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/MainWindowApp.py">
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="192" column="20" lean-forward="false" selection-start-line="192" selection-start-column="20" selection-end-line="192" selection-end-column="20" />
-          <folding>
-            <element signature="e#104#124#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/CumulativeLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsp_staging_utility/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsp_staging_utility/CumulativeLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/entStaging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="596" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="596" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsp_staging_utility/entStaging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="596" column="17" lean-forward="false" selection-start-line="596" selection-start-column="17" selection-end-line="596" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/guiapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/MainWindowApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="228" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsp_staging_utility/MainWindowApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsu-venv/Lib/nsp_staging_utility/ViewLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsp_staging_utility/ViewLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsp_staging_utility/guiapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
