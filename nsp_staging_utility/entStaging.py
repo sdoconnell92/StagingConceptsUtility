@@ -103,7 +103,7 @@ class DeckRow:
         return running_count
 
     def get_print_row(self):
-
+        # Gets a row of decks to print for console
         POR = PrintObjectRow()
         for idx1, deck in enumerate(self.Decks):
             PrintObject = PrintBaseDeckObject()
@@ -210,9 +210,8 @@ class StagePlatform:
 
     def __init__(self, log):
         self.DeckRows = []
-        self.log    = log
+        self.log = log
         self.logger = logging.getLogger(self.__class__.__name__)
-
 
     def widest_point(self, in_number_of_decks=False):
         # Determines the widest point of the stage platform and returns it to user
@@ -466,7 +465,7 @@ class StagePlatform:
 
 
 class PrintBaseDeckObject:
-
+    # Object for storing one deck print for console
     def __init__(self):
         self.row1 = ["{", "~", "~", "}"]
         self.row2 = ["{", "-", "-", "}"]

@@ -3,6 +3,7 @@
 import logging
 import StringIO
 
+
 class CumulativeLoggerHandler(logging.Handler):
   """ Provide a Logging handler """
 
@@ -29,15 +30,15 @@ class CumulativeLogger:
     self.items.append(record)
 
   def getText(self, fmt='%(asctime)s %(message)s', datefmt='%H:%M:%S'):
-    """ Convert log messages to text. On formats see logger.Formatter """
-    f   = logging.Formatter(fmt, datefmt)
-    buf = StringIO.StringIO()
-    b   = 0
-    for item in self.items:
-      if b:
-	buf.write('\n')
-      buf.write(f.format(item))
-      b = 1
-    text = buf.getvalue()
-    buf.close()
-    return text
+      """ Convert log messages to text. On formats see logger.Formatter """
+      f   = logging.Formatter(fmt, datefmt)
+      buf = StringIO.StringIO()
+      b   = 0
+      for item in self.items:
+        if b:
+          buf.write('\n')
+          buf.write(f.format(item))
+        b = 1
+      text = buf.getvalue()
+      buf.close()
+      return text

@@ -2,7 +2,6 @@
 # $Id: guiapp.py,v 1.1 2004/03/31 03:51:49 prof Exp $
 import gettext
 import logging
-
 import CumulativeLogger
 import MainWindowApp
 
